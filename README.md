@@ -7,6 +7,20 @@
 
 *If you wanna change language to Russian:* https://drive.google.com/file/d/1FoHsL0P4Os6uX8FX4JEYiElMDXbfO0il/view
 
+# What it is?
+
+> Many custom settings
+
+> Custom chat processor
+
+> Custom font
+
+> 2 custom background images (cobblestone, vertigo)
+
+> Custom radar
+
+> Custom radio-menu based for Zombie Escape
+
 # How to fix big font size in csgo:
 Add **-w 1280 -h 720** to your *launch options*
 
