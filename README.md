@@ -12,4 +12,5 @@ Add **-w 1280 -h 720** to your *launch options*
 
 Add **mat_setvideomode 2560 1440 0** to your *config* where **2560 1440** is your monitor resolution
 
-*How does it work?* - it will launch csgo in low resolution to fix font size and auto resize it to your own screen resolution
+*How does it work?*
+it will launch csgo in low resolution to fix font size and auto resize it to your own screen resolution
