@@ -1,4 +1,4 @@
-#custom-csgo-client
+# custom-csgo-client
 **Installation folder:** ~csgo/
 
 **Also install fonts:** ~csgo/panorama/fonts/NunitoSans-Light.ttf
