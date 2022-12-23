@@ -1,0 +1,196 @@
+"RadioPanel.txt"
+{
+
+//"SFUI_StandardRadio"
+//"SFUI_GroupRadio"	
+//"SFUI_ReportRadio"	
+	"Groups"
+	{
+		"common"
+		{
+			"hotkey"	"0"
+			"title"	"Quick menu"
+			"timeout"	"15"
+
+			"Commands"
+			{
+				"Bizon"
+				{
+					"hotkey"	"1"
+					"label"	"Bizon"
+					"cmd"	"sm_bizon"
+				}
+				
+				"M4A1-S"
+				{
+					"hotkey"	"2"
+					"label"	"M4A1-S"
+					"cmd"	"sm_m4a1"
+				}
+
+				"M249"
+				{
+					"hotkey"	"3"
+					"label"	"M249"
+					"cmd"	"sm_m249"
+				}
+
+				"HE / Molotov"
+				{
+					"hotkey"	"4"
+					"label"	"HE"
+					"cmd"	"sm_he; sm_molotov"
+				}
+
+				"Kevlar"
+				{
+					"hotkey"	"5"
+					"label"	"Kevlar"
+					"cmd"	"sm_kevlar"
+				}
+			}
+		}
+
+		"standard"
+		{
+			"hotkey"	"1"
+			"title"	"Lenny"
+			"timeout"	"15"
+			
+			"Commands"
+			{
+				"( ͡ʘ ͜ʖ ͡ʘ)"
+				{
+					"hotkey"	"1"
+					"label"	"( ͡ʘ ͜ʖ ͡ʘ)"
+					"cmd"	"say ( ͡ʘ ͜ʖ ͡ʘ)"
+				}
+				
+				"(๑˃ ᴗ ˂)ﻭ"
+				{
+					"hotkey"	"2"
+					"label"	"(๑˃ ᴗ ˂)ﻭ"
+					"cmd"	"say (๑˃ ᴗ ˂)ﻭ"
+				}
+				
+				"(͠≖ ͜ʖ͠≖)"
+				{
+					"hotkey"	"3"
+					"label"	"(͠≖ ͜ʖ͠≖)"
+					"cmd"	"say (͠≖ ͜ʖ͠≖)"
+				}
+				
+				"(☞ ͡° ͜ʖ ͡°)☞"
+				{
+					"hotkey"	"4"
+					"label"	"(☞ ͡° ͜ʖ ͡°)☞"
+					"cmd"	"say (☞ ͡° ͜ʖ ͡°)☞"
+				}
+				
+				"( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)"
+				{
+					"hotkey"	"5"
+					"label"	"( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)"
+					"cmd"	"say ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)"
+				}
+
+				"( ͡° ͜ʖ ͡°)"
+				{
+					"hotkey"	"6"
+					"label"	"( ͡° ͜ʖ ͡°)"
+					"cmd"	"say ( ͡° ͜ʖ ͡°)"
+				}
+
+				"d(✿ ºัᴗºั)b"
+				{
+					"hotkey"	"7"
+					"label"	"d(✿ ºัᴗºั)b"
+					"cmd"	"say d(✿ ºัᴗºั)b"
+				}
+
+				"(ง ͠° ͟ل͜ ͡°)ง"
+				{
+					"hotkey"	"8"
+					"label"	"(ง ͠° ͟ل͜ ͡°)ง"
+					"cmd"	"say (ง ͠° ͟ل͜ ͡°)ง"
+				}
+
+				"（ ͡ ° ͜ ʖ ͡ °）"
+				{
+					"hotkey"	"9"
+					"label"	"（ ͡ ° ͜ ʖ ͡ °）"
+					"cmd"	"say （ ͡ ° ͜ ʖ ͡ °）"
+				}
+			}
+		}
+		
+		"group"
+		{
+			"hotkey"	"2"
+			"title"	"Lenny WAT?"
+			"timeout"	"15"
+			
+			"Commands"
+			{
+				"??( ͡ᵔ ͜ʖ ͡ᵔ)??"
+				{
+					"hotkey"	"1"
+					"label"	"??( ͡ᵔ ͜ʖ ͡ᵔ)??"
+					"cmd"	"say ??( ͡ᵔ ͜ʖ ͡ᵔ)??"
+				}
+				
+				"¯\_( ͡° ͜ʖ ͡°)_/¯"
+				{
+					"hotkey"	"2"
+					"label"	"¯\_( ͡° ͜ʖ ͡°)_/¯"
+					"cmd"	"say ¯\_( ͡° ͜ʖ ͡°)_/¯"
+				}
+
+				"¯\(º_o)/¯"
+				{
+					"hotkey"	"3"
+					"label"	"¯\(º_o)/¯"
+					"cmd"	"say ¯\(º_o)/¯"
+				}
+
+				"¯\_( ツ )_/¯"
+				{
+					"hotkey"	"4"
+					"label"	"¯\_( ツ )_/¯"
+					"cmd"	"say ¯\_( ツ )_/¯"
+				}
+
+				"¯\▁((.′◔_′◔.))▁/¯"
+				{
+					"hotkey"	"5"
+					"label"	"¯\▁((.′◔_′◔.))▁/¯"
+					"cmd"	"say ¯\▁((.′◔_′◔.))▁/¯"
+				}
+			}
+		}
+		
+		"report"
+		{
+			"hotkey"	"3"
+			"title"	"Lenny cuts pp"
+			"timeout"	"15"
+			
+			"Commands"
+			{
+				"( ´･ω･)っ✂ Ɑ͞ ̶͞ﻝﮞ̶"
+				{
+					"hotkey"	"1"
+					"label"	"( ´･ω･)っ✂ Ɑ͞ ̶͞ﻝﮞ̶"
+					"cmd"	"say ( ´･ω･)っ✂ Ɑ͞ ̶͞ﻝﮞ̶"
+				}
+				
+				"໒( 0◡0)っ✂ Ɑ͞ ̶͞ﻝﮞ̶"
+				{
+					"hotkey"	"2"
+					"label"	"໒( 0◡0)っ✂ Ɑ͞ ̶͞ﻝﮞ̶"
+					"cmd"	"say ໒( 0◡0)っ✂ Ɑ͞ ̶͞ﻝﮞ̶"
+				}
+			}
+		}
+	}
+}
