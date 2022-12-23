@@ -1,6 +1,8 @@
 #custom-csgo-client
 **Installation folder:** ~csgo/
+
 **Also install fonts:** ~csgo/panorama/fonts/NunitoSans-Light.ttf
+
 **Launch options:** +exec ze.cfg -language textmodorel -novid -nojoy -high -console -freq 144 -threads 12
 
 *If you wanna change language to Russian:* https://drive.google.com/file/d/1FoHsL0P4Os6uX8FX4JEYiElMDXbfO0il/view
