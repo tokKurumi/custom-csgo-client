@@ -1,60 +1,62 @@
 # Instalation
 
-> Installation folder: ~csgo/
+- Installation folder: ~csgo/
 
-> Also install fonts: ~csgo/panorama/fonts/NunitoSans-Light.ttf
+- Also install fonts: ~csgo/panorama/fonts/NunitoSans-Light.ttf
 
-> Launch options: +exec ze.cfg -language textmodorel -novid -nojoy -high -console -freq 144 -threads 12
+- Launch options: +exec ze.cfg -language textmodorel -novid -nojoy -high -console -freq 144 -threads 12
 
 _If you wanna change language to Russian:_ https://drive.google.com/file/d/1FoHsL0P4Os6uX8FX4JEYiElMDXbfO0il/view
 
 # What it is?
 
-> Many custom settings
+> Custom client side cs:go setup for Zombie Escape
 
-> Custom chat processor
+- Many custom settings
 
-> Colorful console
+- Custom chat processor
 
-> Custom font
+- Colorful console
 
-> 2 custom background images (cobblestone, vertigo)
+- Custom font
 
-> Custom radar
+- 2 custom background images (cobblestone, vertigo)
 
-> Custom radio-menu for Zombie Escape
+- Custom radar
+
+- Custom radio-menu for Zombie Escape
 
 # Extra console commands
 
-> **reverse** - reverse movements
+- **reverse** - reverse movements
 
-> **hands** - switch hands
+- **hands** - switch hands
 
-> **hud** - toggle client side hud
+- **hud** - toggle client side hud
 
-> **bettertp** - toggle better third person (standard -> standard + 300 -> disable)
+- **bettertp** - toggle better third person (standard -> standard + 300 -> disable)
 
-> **hide** - toggle hide (disable -> 300 -> 800 -> 5000 -> disable)
+- **hide** - toggle hide (disable -> 300 -> 800 -> 5000 -> disable)
 
-> **zoomin** - zooms in the zoom position by 100 units
+- **zoomin** - zooms in the zoom position by 100 units
 
-> **zoomout** - zooms out the zoom position by 100 units
+- **zoomout** - zooms out the zoom position by 100 units
 
-> **lennySimple**, **lennyWhat**, **lennyHi**, **lennyPp** - chat lenny spam
+- **lennySimple**, **lennyWhat**, **lennyHi**, **lennyPp** - chat lenny spam
 
-> **testing** / **untesting** - enable/disable test mode for mapping
+- **testing** / **untesting** - enable/disable test mode for mapping
 
-> **voice** - toggle voice chat
+- **voice** - toggle voice chat
 
-> **debug** - print debug menu
+- **debug** - print debug menu
 
-> **channels** - print log_dumpchannels
+- **channels** - print log_dumpchannels
 
-> **cvars** - print client cvars to console
+- **cvars** - print client cvars to console
 
-> **flags** - print flags search menu
+- **flags** - print flags search menu
 
-> **sounds** - print sound list
+- **sounds** - print sound list
 
 # Screenshots
 
@@ -68,10 +70,10 @@ _If you wanna change language to Russian:_ https://drive.google.com/file/d/1FoHs
 
 # How to fix big font size in csgo:
 
-> Add **-w 1280 -h 720** to your _launch options_
+- Add **-w 1280 -h 720** to your _launch options_
 
-> Add **mat_setvideomode 2560 1440 0** to your _config_ where **2560 1440** is your monitor resolution
+- Add **mat_setvideomode 2560 1440 0** to your _config_ where **2560 1440** is your monitor resolution
 
 _How does it work?_
 
-it will launch csgo in low resolution to fix font size and auto resize it to your own screen resolution
+> it will launch csgo in low resolution to fix font size and auto resize it to your own screen resolution
