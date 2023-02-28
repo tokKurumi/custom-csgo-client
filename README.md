@@ -68,7 +68,7 @@ _If you wanna change language to Russian:_ https://drive.google.com/file/d/1FoHs
 
 ![Console](/screenshots/4.png?raw=true "Console")
 
-# How to fix big font size in csgo:
+# How to fix big font size in PrintCenterText:
 
 - Add **-w 1280 -h 720** to your _launch options_
 
